@@ -1,1 +1,1 @@
-{"name":"Mission Flacher Bauch","short_name":"Flacher Bauch","start_url":"./","display":"standalone","background_color":"#f4f6f1","theme_color":"#064b32","icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Mission Flacher Bauch","short_name":"Flacher Bauch","start_url":"./index.html","display":"standalone","background_color":"#f8f9f6","theme_color":"#073a2a","icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
