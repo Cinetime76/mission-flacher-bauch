@@ -1,1 +1,20 @@
-{"name":"Mission Flacher Bauch","short_name":"Flacher Bauch","start_url":"./index.html","display":"standalone","background_color":"#f8f9f6","theme_color":"#073a2a","icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Mission Flacher Bauch",
+  "short_name": "Flacher Bauch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#00351f",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
